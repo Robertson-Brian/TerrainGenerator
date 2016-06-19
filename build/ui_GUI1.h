@@ -117,7 +117,7 @@ public:
 
     void retranslateUi(QMainWindow *GUI1)
     {
-        GUI1->setWindowTitle(QApplication::translate("GUI1", "Sentient Science - Gear Analysis Program", 0));
+        GUI1->setWindowTitle(QApplication::translate("GUI1", "Terrain Generator", 0));
         pushButton->setText(QApplication::translate("GUI1", "Generate Terrain", 0));
         tabWidget_2->setTabText(tabWidget_2->indexOf(tab), QApplication::translate("GUI1", "Tab 1", 0));
         tabWidget_2->setTabText(tabWidget_2->indexOf(tab_2), QApplication::translate("GUI1", "Tab 2", 0));
