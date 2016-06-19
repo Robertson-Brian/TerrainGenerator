@@ -1,0 +1,2 @@
+/home/kd7uns/projects/Terrain/build/CMakeFiles/qgui1_automoc.dir
+/home/kd7uns/projects/Terrain/build/CMakeFiles/qgui1.dir
