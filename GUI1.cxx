@@ -52,8 +52,8 @@ GUI1::GUI1()
     qVTK1->GetRenderWindow()->AddRenderer(Ren1);
 
     // sizes - 129, 257, 513, 1025, 2049, 4097, 8193, 16385, 32768
-    squareSide = 257; //odd numbers only
-    viewSize = 257;
+    squareSide = 129; //odd numbers only
+    viewSize = 129;
     xStart = 0;
     yStart = 0;
 

@@ -1,2 +1,4 @@
-/home/kd7uns/projects/Terrain/build/CMakeFiles/qgui1_automoc.dir
-/home/kd7uns/projects/Terrain/build/CMakeFiles/qgui1.dir
+C:/Users/Brian/Documents/programming/TerrainGenerator/build/CMakeFiles/qgui1.dir
+C:/Users/Brian/Documents/programming/TerrainGenerator/build/CMakeFiles/edit_cache.dir
+C:/Users/Brian/Documents/programming/TerrainGenerator/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Brian/Documents/programming/TerrainGenerator/build/CMakeFiles/qgui1_automoc.dir
