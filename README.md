@@ -2,7 +2,7 @@
 
 This is a sample program using Qt, VTK and Cmake, to demonstrate the Diamond-Square algorithm.
 
-
+(To try this program, just run the 'Terrain Generator.exe' in the build folder.)
 
 instalation instructions for mingw/cmake/vtk/qt toolchain:
 
